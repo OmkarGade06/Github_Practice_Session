@@ -3,3 +3,8 @@
 3. Postman
 4. Git bash
 5. VS Code
+6.eclipse ide
+7.intteliJe
+8.python
+9.spring
+10.angular
